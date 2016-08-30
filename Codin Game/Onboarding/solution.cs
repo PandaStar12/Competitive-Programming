@@ -26,6 +26,6 @@ class Player
             if(dist1 < dist2) Console.WriteLine(enemy1);
             else Console.WriteLine(enemy2);
 
-        }
-    }
+        } 
+    }dist1 < dist2) { Console.WriteLine(enemy1); } else { Console.WriteLine(enemy2
 }
